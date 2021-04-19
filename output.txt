@@ -1,0 +1,2 @@
+ini merupakan baris pertama
+ini merupakan baris kedua
